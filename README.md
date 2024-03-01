@@ -32,7 +32,7 @@ Welcome to the VR Beat Saber Clone project! Immerse yourself in a rhythmic exper
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/vr-beat-saber-clone.git
+   git clone https://github.com/Sherif-2001/vr-beat-saber-clone.git
 
 3. **Install Dependencies:**
 Install any required dependencies or follow the setup instructions provided in the project documentation.
